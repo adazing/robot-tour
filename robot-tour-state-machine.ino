@@ -1,8 +1,3 @@
-/* Get tilt angles on X and Y, and rotation angle on Z
- * Angles are given in degrees
- * 
- * License: MIT
- */
 
 #include "Wire.h"
 #include <MPU6050_light.h>
